@@ -1,0 +1,101 @@
+{
+    "users": [
+      {
+        "id": 1,
+        "name": "John Doe",
+        "email": "john.doe@example.com",
+        "password": "password123",
+        "mobile": "+1234567890"
+      },
+      {
+        "id": 2,
+        "name": "Jane Smith",
+        "email": "jane.smith@example.com",
+        "password": "securePass456",
+        "mobile": "+1987654321"
+      },
+      {
+        "id": 3,
+        "name": "Alice Johnson",
+        "email": "alice.johnson@example.com",
+        "password": "alicePass789",
+        "mobile": "+1122334455"
+      },
+      {
+        "id": 4,
+        "name": "Bob Brown",
+        "email": "bob.brown@example.com",
+        "password": "bobSecure456",
+        "mobile": "+1223344556"
+      },
+      {
+        "id": 5,
+        "name": "Carol White",
+        "email": "carol.white@example.com",
+        "password": "carol123Pass",
+        "mobile": "+1334455667"
+      },
+      {
+        "id": 6,
+        "name": "David Green",
+        "email": "david.green@example.com",
+        "password": "davidPass789",
+        "mobile": "+1445566778"
+      },
+      {
+        "id": 7,
+        "name": "Eve Black",
+        "email": "eve.black@example.com",
+        "password": "evePassword321",
+        "mobile": "+1556677889"
+      }
+    ]
+  }
+
+
+  {
+    "users": [
+      {
+        "id": 1,
+        "name": "John Doe",
+        "email": "john.doe@example.com",
+        "mobile": "+1234567890"
+      },
+      {
+        "id": 2,
+        "name": "Jane Smith",
+        "email": "jane.smith@example.com",
+        "mobile": "+1987654321"
+      },
+      {
+        "id": 3,
+        "name": "Alice Johnson",
+        "email": "alice.johnson@example.com",
+        "mobile": "+1122334455"
+      },
+      {
+        "id": 4,
+        "name": "Bob Brown",
+        "email": "bob.brown@example.com",
+        "mobile": "+1223344556"
+      },
+      {
+        "id": 5,
+        "name": "Carol White",
+        "email": "carol.white@example.com",
+        "mobile": "+1334455667"
+      },
+      {
+        "id": 6,
+        "name": "David Green",
+        "email": "david.green@example.com",
+        "mobile": "+1445566778"
+      },
+      {
+        "id": 7,
+        "name": "Eve Black",
+        "email": "eve.black@example.com",
+        "mobile": "+1556677889"
+      }
+    ]
+  }
